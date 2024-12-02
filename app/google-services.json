@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222427257667",
+    "project_id": "proyectoapp-e54a0",
+    "storage_bucket": "proyectoapp-e54a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222427257667:android:195dd657e8972024566df6",
+        "android_client_info": {
+          "package_name": "com.rob.appfirebasemqtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcKtJy1YGMShg-Lu9N7EH5IDnD_ECKAHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
